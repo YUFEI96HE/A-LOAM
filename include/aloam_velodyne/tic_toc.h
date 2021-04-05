@@ -17,6 +17,7 @@ public:
 
 	void tic()
 	{
+		// record start time
 		start = std::chrono::system_clock::now();
 	}
 
